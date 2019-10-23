@@ -1,0 +1,7 @@
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\bin\Debug\EjercicioPipes6.exe.config
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\bin\Debug\EjercicioPipes6.exe
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\bin\Debug\EjercicioPipes6.pdb
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\obj\Debug\EjercicioPipes6.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\obj\Debug\EjercicioPipes6.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\obj\Debug\EjercicioPipes6.exe
+C:\Users\andermaestre\source\repos\EjercicioPipes6\EjercicioPipes6\obj\Debug\EjercicioPipes6.pdb
